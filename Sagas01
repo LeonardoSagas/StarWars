@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20I%20-%20La%20amenaza%20fantasma%20%281999%29.jpg" GROUP-TITLE="", La Guerra De Las Galaxias. Episodio I - La Amenaza Fantasma (1999)
+https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20I%20-%20La%20amenaza%20fantasma%20%281999%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20II%20-%20El%20ataque%20de%20los%20clones%20%282002%29.jpg" GROUP-TITLE="", La Guerra De Las Galaxias. Episodio II - El Ataque De Los Clones (2002)
+https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20II%20-%20El%20ataque%20de%20los%20clones%20%282002%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20III%20-%20La%20venganza%20de%20los%20%282005%29.jpg" GROUP-TITLE:"", La Guerra De Las Galaxias. Episodio III - La venganza De Los Sith (2005)
+https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20III%20-%20La%20venganza%20de%20los%20%282005%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20IV%20-%20Una%20nueva%20esperanza%20%281977%29.jpg" GROUP-TITLE:"", La Guerra De Las Galaxias. Episodio IV - Una Nueva Esperanza (1977)
+https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20IV%20-%20Una%20nueva%20esperanza%20%281977%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20V%20-%20El%20imperio%20contraataca%20%281980%29.jpg" GROUP-TITLE:"", La Guerra De Las Galaxias. Episodio V - El Imperio Contraataca (1980)
+https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20V%20-%20El%20imperio%20contraataca%20%281980%29.mp4
+
+#EXTINF:-1 TVG-LOGO="https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20VI%20-%20El%20retorno%20del%20Jedi%20%281983%29.jpg" GROUP-TITLE:"", La Guerra De Las Galaxias. Episodio VI - El Retorno Del Jedi (1983)
+https://archive.org/download/star-wars-saga/La%20guerra%20de%20las%20galaxias.%20Episodio%20VI%20-%20El%20retorno%20del%20Jedi%20%281983%29.mp4
